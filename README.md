@@ -94,34 +94,6 @@ https://blinkit-drab.vercel.app
 - **PostCSS** - CSS processing
 - **Autoprefixer** - CSS vendor prefixes
 - **Nodemon** - Development server
-
-## 📁 Project Structure
-
-
-blinkit/
-├── client/                 # Frontend React application
-│   ├── public/            # Static assets
-│   ├── src/
-│   │   ├── components/    # Reusable UI components
-│   │   ├── pages/         # Page components
-│   │   ├── store/         # Redux store and slices
-│   │   ├── hooks/         # Custom React hooks
-│   │   ├── utils/         # Utility functions
-│   │   ├── provider/      # Context providers
-│   │   └── route/         # Routing configuration
-│   ├── package.json
-│   └── vite.config.js
-├── config/                # Database and service configurations
-├── controllers/           # Route controllers
-├── middleware/            # Custom middleware
-├── models/               # MongoDB schemas
-├── route/                # API routes
-├── utils/                # Utility functions
-├── views/                # EJS templates
-├── index.js              # Server entry point
-└── package.json
-
-
 ## 🚀 Getting Started
 
 ### Prerequisites
